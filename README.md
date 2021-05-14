@@ -4,7 +4,7 @@ Manipulating the environment while at the same time measuring key parameters is 
 
 ## Cost effective
 
-Although we acknowledge that the growth chambers carry a considerable cost. However, the reuse of small lab based growth chambers, normally reserved for smaller growth medium experiments, within the context of seedling and sapling research provides cost savings and a flexibility to researchers not available in brick and mortar setups.
+Although we acknowledge that the growth chambers carry a considerable cost. However, the reuse of small lab based growth chambers, normally reserved for smaller growth medium experiments, within the context of seedling and sapling research provides cost savings and a flexibility to researchers not available in brick and mortar setups. A bill of materials is provided [here](https://raw.githubusercontent.com/khufkens/growth_chamber_protocol/main/docs/BOM.pdf)
 
 ## Setup
 
@@ -14,7 +14,7 @@ The setup is built around the MD1400 Climate chambers by Snijder Labs, these uni
 
 ### logging
 
-Kern EOC 10K-4 scales were selected because they interface easily using a RS232 (serial) connection (a feature required for automated logging, and not always available). Logging is provided using open hardware, a raspberry pi. The serial signal is translated to USB using a RS232 to USB converter with four connections.
+Kern EOC 10K-4 scales were selected because they interface easily using a RS232 (serial) connection (a feature required for automated logging, and not always available). Logging is provided using open hardware, a raspberry pi. The serial signal is translated to USB using a RS232 to USB converter with four connections. A schematic wiring diagram of our setup is provided [here](https://github.com/khufkens/growth_chamber_protocol/blob/main/docs/images/kern_setup.png)
 
 #### Software
 
