@@ -10,7 +10,7 @@ Although we acknowledge that the growth chambers carry a considerable cost. Howe
 
 The setup is built around the MD1400 Climate chambers by Snijder Labs, these units provide an interior space which can accomodate eight (8) Kern EOC 10K-4 scales. Together with high power 120W growth lamps these form the core of the mass balance measurement setup.
 
-![]("./docs/images/IMG_4523.JPG")
+![](https://raw.githubusercontent.com/khufkens/growth_chamber_protocol/main/docs/images/IMG_4523.JPG)
 
 ### logging
 
